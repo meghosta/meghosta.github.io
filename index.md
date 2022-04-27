@@ -3,10 +3,14 @@
 <br>
 <p>I am currently doing a game design course at PCT. Here are games I have made:</p>
 
+## Introduction
+
+## Skills 
+
+## Games I've built
 <ol>
 <li>[Monsterun](https://meghosta.github.io/monsterrun)<li/>
 <li>https://meghosta.github.io/practice<li>
-  
-  <ol>
+<ol>
 
 
