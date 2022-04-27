@@ -12,7 +12,7 @@
 ## Games I've built
 <ol>
 <li>[Monsterrun](https://meghosta.github.io/monsterrun)<br>
-<li/>[Practice](https://meghosta.github.io/practice)
+<li>[Practice](https://meghosta.github.io/practice)
 </ol>
 
 
