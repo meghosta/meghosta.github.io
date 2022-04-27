@@ -11,8 +11,9 @@
 
 ## Games I've built
 <ol>
-<li>[Monsterun](https://meghosta.github.io/monsterrun)<li/>
-<li>https://meghosta.github.io/practice<li>
+<li>[Monsterrun](https://meghosta.github.io/monsterrun)
+[Practice](https://meghosta.github.io/practice)
+<li/>
 </ol>
 
 
